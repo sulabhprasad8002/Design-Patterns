@@ -1,0 +1,1 @@
+# defines a one-to-many relationship between objects so that when one object changes state then all its dependents are notified and updated
