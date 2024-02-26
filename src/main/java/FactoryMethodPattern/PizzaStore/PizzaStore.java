@@ -1,4 +1,4 @@
-package FactoryMethodPattern;
+package FactoryMethodPattern.PizzaStore;
 
 public abstract class PizzaStore {
 

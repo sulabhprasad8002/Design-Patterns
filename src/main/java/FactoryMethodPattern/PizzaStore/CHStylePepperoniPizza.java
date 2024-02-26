@@ -1,4 +1,4 @@
-package FactoryMethodPattern;
+package FactoryMethodPattern.PizzaStore;
 
 public class CHStylePepperoniPizza extends Pizza {
 	public CHStylePepperoniPizza() {

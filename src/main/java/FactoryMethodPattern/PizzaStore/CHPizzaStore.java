@@ -1,4 +1,4 @@
-package FactoryMethodPattern;
+package FactoryMethodPattern.PizzaStore;
 
 public class CHPizzaStore extends PizzaStore{
     Pizza createPizza(String item) {
