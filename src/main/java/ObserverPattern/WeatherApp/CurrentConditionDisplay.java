@@ -1,4 +1,4 @@
-package ObserverPattern;
+package ObserverPattern.WeatherApp;
 
 public class CurrentConditionDisplay implements Observer, DisplayElement{
     private float temperature;
