@@ -1,4 +1,4 @@
-package StrategyPattern;
+package StrategyPattern.DuckSimulator;
 
 public abstract class Duck {
 

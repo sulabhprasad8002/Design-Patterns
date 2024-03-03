@@ -1,4 +1,4 @@
-package DecoratorPattern;
+package DecoratorPattern.CoffeeShop;
 
 public class StarbuzzCoffee {
     public static void main(String[] args) {

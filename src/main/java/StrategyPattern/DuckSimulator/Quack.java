@@ -1,4 +1,4 @@
-package StrategyPattern;
+package StrategyPattern.DuckSimulator;
 
 public class Quack implements QuackBehavior{
     public void quack() {

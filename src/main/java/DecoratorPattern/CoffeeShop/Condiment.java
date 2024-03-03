@@ -1,4 +1,4 @@
-package DecoratorPattern;
+package DecoratorPattern.CoffeeShop;
 
 public abstract class Condiment extends Beverage{
     Beverage beverage;
